@@ -14,3 +14,5 @@ Person.prototype = {
 const DummyPerson = new Person("Jeremy", "Ho");
 console.log(DummyPerson.first + " " + DummyPerson.last)
 
+myName = "Hello"
+
