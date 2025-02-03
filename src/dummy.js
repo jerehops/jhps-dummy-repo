@@ -11,9 +11,7 @@ Person.prototype = {
 
 };
 
-// console.log(DummyPerson.first + " " + DummyPerson.last)
-
-let data = [
+const data = [
     {
         first: "Bob",
         last: "Marlay"
@@ -29,11 +27,9 @@ let data = [
 
 ]
 
-newData = "Is this an issue? hehe."
+const newData = "Is this an issue? hehe."
 
 data.forEach(element => {
     const DummyPerson = new Person(element.first, element.last);
     console.log(DummyPerson.first + " " + DummyPerson.last)
 });
-
-
