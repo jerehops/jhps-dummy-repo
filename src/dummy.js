@@ -15,13 +15,18 @@ Person.prototype = {
 
 let data = [
     {
-        first: "Jeremy",
-        last: "Ho"
+        first: "Bob",
+        last: "Marlay"
     },
     {
-        first: "Jolene",
-        last: "Low"
+        first: "Elvis",
+        last: "Presley"
+    },
+    {
+        first: "Donald",
+        last: "Trump"
     }
+
 ]
 
 data.forEach(element => {
