@@ -1,7 +1,0 @@
-projectKey=dummyjs-project
-serverUrl=https://jeremy-ho.ngrok.app
-serverVersion=10.8.0.100206
-branch=feature1
-dashboardUrl=https://jeremy-ho.ngrok.app/dashboard?id=dummyjs-project&branch=feature1
-ceTaskId=d9decae5-c342-47a7-a1a4-24e54e2914c3
-ceTaskUrl=https://jeremy-ho.ngrok.app/api/ce/task?id=d9decae5-c342-47a7-a1a4-24e54e2914c3

@@ -1,0 +1,7 @@
+projectKey=jerehops_jhps-dummy-repo_426a3351-52ec-479c-aeb9-6abfea53eccc
+serverUrl=https://jeremy-ho.ngrok.io
+serverVersion=10.8.0.100206
+branch=feature1
+dashboardUrl=https://jeremy-ho.ngrok.io/dashboard?id=jerehops_jhps-dummy-repo_426a3351-52ec-479c-aeb9-6abfea53eccc&branch=feature1
+ceTaskId=a89253d5-8bd3-497e-b672-d5c0ebe45ac4
+ceTaskUrl=https://jeremy-ho.ngrok.io/api/ce/task?id=a89253d5-8bd3-497e-b672-d5c0ebe45ac4
