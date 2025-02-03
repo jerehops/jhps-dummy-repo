@@ -29,6 +29,8 @@ let data = [
 
 ]
 
+newData = "Is this an issue? hehe."
+
 data.forEach(element => {
     const DummyPerson = new Person(element.first, element.last);
     console.log(DummyPerson.first + " " + DummyPerson.last)
