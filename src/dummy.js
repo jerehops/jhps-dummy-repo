@@ -33,3 +33,9 @@ data.forEach(element => {
     const DummyPerson = new Person(element.first, element.last);
     console.log(DummyPerson.first + " " + DummyPerson.last)
 });
+
+var userName = "Jeremy Ho"
+
+for ( i=0; i<5; i++) {
+    console.log(userName);
+}
