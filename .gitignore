@@ -25,3 +25,5 @@ replay_pid*
 
 node*
 .scannerwork
+.DS_STORE
+*.txt
