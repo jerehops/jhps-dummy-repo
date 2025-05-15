@@ -23,6 +23,14 @@ const data = [
     {
         first: "Donald",
         last: "Trump"
+    },
+    {
+        first: "John",
+        last: "Doe"
+    },
+    {
+        first: "Mary",
+        last: "Jane"
     }
 
 ]
