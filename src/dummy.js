@@ -33,3 +33,5 @@ data.forEach(element => {
     const DummyPerson = new Person(element.first, element.last);
     console.log(DummyPerson.first + " " + DummyPerson.last)
 });
+
+// LAST RUN ON SQ 2025.1
